@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Confie em Deus.]]></title>
+        <description><![CDATA[Confie em Deus.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 23:50:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Com Deus tudo posso.]]></title>
+            <description><![CDATA[<h1>Com Deus tudo posso.</h1>]]></description>
+            <link>undefinedcom-deus-tudo-posso/index.html</link>
+            <guid isPermaLink="false">53d65dca-8a8c-4554-bb82-4e38147cf345</guid>
+            <pubDate>Tue, 23 Feb 2016 23:49:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
