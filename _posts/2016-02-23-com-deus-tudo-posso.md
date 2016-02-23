@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T23:49:48.758Z'
-dateModified: '2016-02-23T23:49:18.027Z'
+datePublished: '2016-02-23T23:52:37.668Z'
+dateModified: '2016-02-23T23:52:26.151Z'
 title: Com Deus tudo posso.
 author: []
 authors: []
