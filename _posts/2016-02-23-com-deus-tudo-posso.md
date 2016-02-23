@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T23:52:37.668Z'
-dateModified: '2016-02-23T23:52:26.151Z'
+datePublished: '2016-02-23T23:54:02.346Z'
+dateModified: '2016-02-23T23:53:53.264Z'
 title: Com Deus tudo posso.
 author: []
+sourcePath: _posts/2016-02-23-com-deus-tudo-posso.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-com-deus-tudo-posso.md
-published: true
 url: com-deus-tudo-posso/index.html
 _type: Article
 
